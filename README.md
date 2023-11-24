@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaximeBranger&theme=radical)](https://git.io/streak-stats)
+
+<a href="https://app.daily.dev/brangermaxime"><img src="https://api.daily.dev/devcards/2a7c5516d69543b281becd1350ea9ff9.png?r=3xo" width="400" alt="Branger Maxime's Dev Card"/></a>
